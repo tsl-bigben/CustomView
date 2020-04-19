@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="order_tab_title">
+        <item>@string/order_one</item>
+        <item>@string/order_two</item>
+        <item>@string/order_three</item>
+    </array>
+
+    <array name="order_tab_img">
+        <item>@drawable/card88_equity_selected</item>
+        <item>@drawable/multiple_integral_equity_selected</item>
+        <item>@drawable/discount88_equity_selected</item>
+        <item>@drawable/gift_month_selected</item>
+    </array>
+</resources>

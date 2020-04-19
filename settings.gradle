@@ -1,0 +1,3 @@
+rootProject.name='SDKProject'
+include ':app'
+include ':view'
