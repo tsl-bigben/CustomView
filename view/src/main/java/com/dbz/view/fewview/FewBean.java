@@ -2,7 +2,7 @@ package com.dbz.view.fewview;
 
 import java.io.Serializable;
 
-public class FewBean implements Serializable {
+public final class FewBean implements Serializable {
     private static final long serialVersionUID = 1L;
     private int iconRes;//菜单图标 没有图标置为-1
     private String title;//菜单标题
